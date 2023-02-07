@@ -1,0 +1,11 @@
+---
+title: "About"
+author: "Udita Bansal"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+We are first year PhD students in EEB at Cornell University.
