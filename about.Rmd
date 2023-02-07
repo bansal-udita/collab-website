@@ -1,6 +1,6 @@
 ---
 title: "About"
-author: "Udita Bansal"
+author: "Udita Bansal, Kathy Stenehejm"
 output: html_document
 ---
 
@@ -8,4 +8,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Who we are
+
 We are first year PhD students in EEB at Cornell University.
+
+## Our study systems
+
+Kathy - ponds
+Udita - chameleons
